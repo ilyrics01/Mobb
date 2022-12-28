@@ -1,0 +1,110 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+div#e11             {
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	text-align      : left;
+	position        : absolute;
+	left            :   0.00pt;
+	top             :   0.00pt;
+	width           : 240.00pt;
+	height          : 315.00pt;
+	}
+span#e10            { /* images/album1005002.jpg */
+	background      : transparent url(images/album1005002.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  11.25pt;
+	top             :   8.25pt;
+	width           : 217.50pt;
+	height          : 296.25pt;
+	}
+span#e9             { /* images/album1005001.jpg */
+	background      : transparent url(images/album1005001.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  30.00pt;
+	top             :  27.00pt;
+	width           : 178.50pt;
+	height          :  36.00pt;
+	}
+h1#e8               { /* Business */
+	padding-top     :   2.25pt;
+	position        : absolute;
+	left            :  45.00pt;
+	top             :  27.00pt;
+	width           : 150.00pt;
+	height          :  27.75pt;
+	}
+h4#e7               { /* Contact Us */
+	text-align      : left;
+	position        : absolute;
+	left            :  22.50pt;
+	top             :  83.25pt;
+	width           : 112.50pt;
+	height          :  26.25pt;
+	}
+small#e6            { /* &lt; */
+	text-align      : left;
+	padding-top     :   2.25pt;
+	position        : absolute;
+	left            : 156.00pt;
+	top             :  90.75pt;
+	width           :  12.00pt;
+	height          :  11.25pt;
+	}
+small#e5            { /* Home */
+	text-align      : left;
+	padding-top     :   2.25pt;
+	position        : absolute;
+	left            : 172.50pt;
+	top             :  90.75pt;
+	width           :  42.00pt;
+	height          :  11.25pt;
+	}
+address#e4          { /* {enter street\ \city,\ \... */
+	text-align      : left;
+	position        : absolute;
+	left            :  22.50pt;
+	top             : 112.50pt;
+	width           : 190.50pt;
+	height          :  50.25pt;
+	}
+address#e3          { /* {enter phone} */
+	text-align      : left;
+	position        : absolute;
+	left            :  22.50pt;
+	top             : 165.00pt;
+	width           : 190.50pt;
+	height          :  14.25pt;
+	}
+address#e2          { /* {enter fax} */
+	text-align      : left;
+	position        : absolute;
+	left            :  22.50pt;
+	top             : 182.25pt;
+	width           : 190.50pt;
+	height          :  14.25pt;
+	}
+address#e1          { /* {your@address.here} */
+	text-align      : left;
+	position        : absolute;
+	left            :  22.50pt;
+	top             : 200.25pt;
+	width           : 190.50pt;
+	height          :  14.25pt;
+	}
+div#page            { /* Page Holder */
+	position        : relative;
+	width           : 240.00pt;
+	height          : 315.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #c0c0c0;
+	text-align      : center;
+	}
+
+
+
+/*--- EndOfFile ---*/
